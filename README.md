@@ -1,1 +1,2 @@
-# CSCI_3090U_Computer-Graphics-Visualizat
+# CSCI_3090U (Winter 2018)
+Computer-Graphics-Visualizat
